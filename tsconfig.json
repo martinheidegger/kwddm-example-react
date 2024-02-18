@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "Node16",
+      "lib": ["DOM", "DOM.Iterable", "ES2020"],
+      "alwaysStrict": true,
+      "jsx": "react-jsx",
+      "baseUrl": "./src",
+      "forceConsistentCasingInFileNames": true,
+      "resolveJsonModule": true,
+      "noEmit": true,
+      "moduleResolution": "Node16",
+      "skipLibCheck": true
+    },
+  }
